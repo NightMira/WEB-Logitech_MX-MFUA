@@ -9,6 +9,8 @@ body {
     line-height: 23px;
     text-align: center;
     color: #2F3132;
+    display: flex;
+    justify-content: center;
 }
 
 .text {
