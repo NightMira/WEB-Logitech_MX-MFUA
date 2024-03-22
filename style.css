@@ -1,0 +1,39 @@
+body {
+    font-family: Roboto;
+}
+
+.heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #2F3132;
+}
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+}
+
+.top {
+    background: #E0E1E2;
+    padding-top: 25px;
+    padding-bottom: 48px;
+}
+
+.top__img {
+    margin-top: 94px;
+    height: 256px;
+    background-image: url(img/MX-Master\ 1.png);
+    background-size: contain;
+    margin-bottom: 41px;
+}
+
+.top__arrow {
+    margin-top: 40px;
+}
