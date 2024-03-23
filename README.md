@@ -17,3 +17,4 @@
 + **0.1 - Git Init**
 + **0.1.1 - Add images**
 + **0.1.2 - Add section Top**
++ **0.1.3 - Add section Bluetooth**
