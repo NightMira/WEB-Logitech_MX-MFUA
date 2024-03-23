@@ -81,6 +81,11 @@ body {
     margin-bottom: 0;
 }
 
+.text_margin {
+    margin-left: 34px;
+    margin-right: 32px;
+}
+
 .center-content {
     display: flex;
     justify-content: center;
