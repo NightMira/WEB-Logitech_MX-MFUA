@@ -36,6 +36,11 @@ body {
     padding-bottom: 48px;
 }
 
+.top__text-margin {
+    margin-left: 59px;
+    margin-right: 59px;
+}
+
 .top__img {
     margin-top: 94px;
     height: 256px;
