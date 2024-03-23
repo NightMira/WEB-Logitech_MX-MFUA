@@ -27,6 +27,12 @@ body {
     margin-top: 40px;
 }
 
+.bluetooth {
+    background-color: #EDEDED;
+    padding-top: 42px;
+    padding-bottom: 22px;
+}
+
 .header {
     display: flex;
     justify-content: center;
