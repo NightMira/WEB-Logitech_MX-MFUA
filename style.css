@@ -9,8 +9,6 @@ body {
     line-height: 23px;
     text-align: center;
     color: #2F3132;
-    display: flex;
-    justify-content: center;
 }
 
 .text {
@@ -20,6 +18,11 @@ body {
     line-height: 16px;
     text-align: center;
     color: #2F3132;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
 }
 
 .top {
