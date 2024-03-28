@@ -63,11 +63,16 @@ body {
 
 .info__item {
     border: 1px solid #2F3132;
+    flex-basis: 166px;
 }
 
 .info__content {
     margin-top: 30px;
     margin-bottom: 28px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+    
 }
 
 .info__heading {
@@ -77,6 +82,11 @@ body {
     line-height: 16px;
     text-align: center;
     color: #2F3132;
+}
+
+.info__text {
+    margin-left: 67px;
+    margin-right: 61px;
 }
 
 .header {
@@ -113,3 +123,8 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.carousel {
+    margin-bottom: 100px;
+}
+
