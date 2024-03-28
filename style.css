@@ -1,3 +1,5 @@
+/* MObile Style */
+
 /* el body */
 
 body {
@@ -286,4 +288,12 @@ body {
     text-align: center;
     color: #C7C8C8;
     padding-top: 22px;
+}
+
+/* Tablet Style */
+@media (min-width: 768px) {
+    .top {
+        padding-top: 54px;
+        padding-bottom: 80px;
+    }
 }
