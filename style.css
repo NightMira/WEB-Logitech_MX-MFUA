@@ -1,6 +1,16 @@
+/* el body */
+
 body {
     font-family: Roboto;
 }
+
+/* el body */
+
+
+
+/* els section Start */
+
+/* section Top */
 
 .top {
     background: #E0E1E2;
@@ -26,6 +36,12 @@ body {
 .top__arrow {
     margin-top: 40px;
 }
+
+/* section Top */
+
+
+
+/* section Bluetooth */
 
 .bluetooth {
     background-color: #EDEDED;
@@ -55,6 +71,12 @@ body {
     background-size: contain;
     background-position: center bottom;
 }
+
+/* section Bluetooth */
+
+
+
+/* section Info */
 
 .info {
     padding-top: 70px;
@@ -97,50 +119,11 @@ body {
     margin-right: 61px;
 }
 
-.header {
-    display: flex;
-    justify-content: center;
-}
+/* section Info */
 
-.heading {
-    font-style: normal;
-    font-weight: 900;
-    font-size: 20px;
-    line-height: 23px;
-    text-align: center;
-    color: #2F3132;
-    margin-bottom: 20px;
-}
 
-.text {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: center;
-    color: #2F3132;
-    margin-bottom: 0;
-}
 
-.text_margin {
-    margin-left: 34px;
-    margin-right: 32px;
-}
-
-.text_flow {
-    margin-bottom: 23px;
-    text-align: left;
-    width: 222px;
-}
-
-.center-content {
-    display: flex;
-    justify-content: center;
-}
-
-.carousel {
-    margin-bottom: 100px;
-}
+/* section Flow */
 
 .flow {
     padding-top: 70px;
@@ -155,6 +138,18 @@ body {
     margin-top: 36px;
     padding-left: 54px;
 }
+
+.text_flow {
+    margin-bottom: 23px;
+    text-align: left;
+    width: 222px;
+}
+
+/* section Flow */
+
+
+
+/* section Settings */
 
 .settings {
     padding-top: 70px;
@@ -182,6 +177,12 @@ body {
     margin-right: 11px;
 }
 
+/* section Settings */
+
+
+
+/* section Mouse */
+
 .mouse__text {
     padding-top: 70px;
     padding-bottom: 20px;
@@ -197,9 +198,83 @@ body {
 .mouse__img_1 {
     background-image: url(img/image\ 1.jpg);
 }
+
 .mouse__img_2 {
     background-image: url(img/image\ 2.jpg);
 }
+
+/* section Mouse */
+
+/* els section End */
+
+
+
+/* els text Start*/
+
+/* el header (h1) */
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+/* el header (h2) */
+
+.heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #2F3132;
+    margin-bottom: 20px;
+}
+
+/* el p */
+
+.text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+    margin-bottom: 0;
+}
+
+/* el p with margin */
+
+.text_margin {
+    margin-left: 34px;
+    margin-right: 32px;
+}
+
+
+/* els text End*/
+
+
+
+
+/* el svg for icons */
+
+.center-content {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+/* el slider */
+
+.carousel {
+    margin-bottom: 100px;
+}
+
+
+
+
+/* el footer */
 
 .footer {
     background: #2F3132;
