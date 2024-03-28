@@ -127,6 +127,12 @@ body {
     margin-right: 32px;
 }
 
+.text_flow {
+    margin-bottom: 23px;
+    text-align: left;
+    width: 222px;
+}
+
 .center-content {
     display: flex;
     justify-content: center;
@@ -143,4 +149,9 @@ body {
     background-color: #EDEDED;
     background-repeat: no-repeat;
     background-position: bottom;
+}
+
+.flow__ol {
+    margin-top: 36px;
+    padding-left: 54px;
 }
