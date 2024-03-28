@@ -155,3 +155,8 @@ body {
     margin-top: 36px;
     padding-left: 54px;
 }
+
+.setting {
+    padding-top: 70px;
+    background-color: #EDEDED;
+}
