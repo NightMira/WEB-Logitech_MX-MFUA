@@ -164,3 +164,18 @@ body {
 .settings__slider {
     margin: 35px 22px 98px 23px;
 }
+
+.settings__content {
+    background-color: #C4C4C4;
+    padding: 23px 22px 26px 29px;
+}
+
+.setting__icons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 28px;
+}
+
+.text_settings {
+    color: #FFF;
+}
