@@ -296,4 +296,7 @@ body {
         padding-top: 54px;
         padding-bottom: 80px;
     }
+    .header__logo {
+        width: 240px;
+    }
 }
