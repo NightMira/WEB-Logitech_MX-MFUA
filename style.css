@@ -61,6 +61,15 @@ body {
     padding-bottom: 77px;
 }
 
+.info__item {
+    border: 1px solid #2F3132;
+}
+
+.info__content {
+    margin-top: 30px;
+    margin-bottom: 28px;
+}
+
 .header {
     display: flex;
     justify-content: center;
