@@ -181,3 +181,22 @@ body {
     margin-left: 5px;
     margin-right: 11px;
 }
+
+.mouse__text {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.mouse__img {
+    height: 310px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mouse__img_1 {
+    background-image: url(img/image\ 1.jpg);
+}
+.mouse__img_2 {
+    background-image: url(img/image\ 2.jpg);
+}
