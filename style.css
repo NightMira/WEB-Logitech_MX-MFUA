@@ -64,6 +64,10 @@ body {
 .info__item {
     border: 1px solid #2F3132;
     flex-basis: 166px;
+    min-height: 94px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .info__content {
@@ -73,6 +77,10 @@ body {
     justify-content: center;
     gap: 6px;
     
+}
+
+.info__item-heading {
+    margin-bottom: 5px;
 }
 
 .info__heading {
