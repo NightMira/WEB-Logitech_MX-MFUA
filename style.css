@@ -299,4 +299,9 @@ body {
     .header__logo {
         width: 240px;
     }
+    .top__img {
+        margin-top: 159px;
+        height: 514px;
+        margin-bottom: 124px;
+    }
 }
