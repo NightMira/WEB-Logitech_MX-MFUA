@@ -156,7 +156,11 @@ body {
     padding-left: 54px;
 }
 
-.setting {
+.settings {
     padding-top: 70px;
     background-color: #EDEDED;
+}
+
+.settings__slider {
+    margin: 35px 22px 98px 23px;
 }
