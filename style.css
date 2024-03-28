@@ -93,6 +93,8 @@ body {
 .info__item {
 	border: 1px solid #2F3132;
 	flex-basis: 166px;
+	padding-left: 17px;
+	padding-right: 17px;
 	min-height: 94px;
 	display: flex;
 	flex-direction: column;
@@ -345,5 +347,20 @@ body {
 		height: 597px;
 		margin-left: 39px;
 		margin-right: 19px;
+	}
+	.info__content {
+		margin-top: 50px;
+		margin-bottom: 50px;
+		gap: 30px;
+	}
+	.info__item-heading {
+		margin-bottom: 5px;
+	}
+	.info__item {
+		min-height: 170px;
+	}
+	.info__heading {
+		font-size: 24px;
+		line-height: 28px;
 	}
 }
