@@ -9,7 +9,7 @@
 > [Figma Maket](https://www.figma.com/file/gsg9gdXvYWqbB0RtLho5iu/Logitech_MX-Master-3-(Copy)-(Copy)?type=design&node-id=0%3A1&mode=design&t=mIpiPFUXTe6jx7fl-1)
 
 ## ***Check List***
-- [ ] Mobile
+- [X] Mobile
 - [ ] Tablet
 - [ ] Desctop
 
@@ -19,3 +19,6 @@
 + **0.1.2 - Add section Top**
 + **0.1.3 - Add section Bluetooth**
 + **0.1.4 - Add section Info**
++ **0.1.5 - Add section Settings**
++ **0.1.6 - Add section Mouse**
++ **0.1.7 - Add section Footer**
