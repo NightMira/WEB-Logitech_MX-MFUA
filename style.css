@@ -56,6 +56,11 @@ body {
     background-position: center bottom;
 }
 
+.info {
+    padding-top: 70px;
+    padding-bottom: 77px;
+}
+
 .header {
     display: flex;
     justify-content: center;
