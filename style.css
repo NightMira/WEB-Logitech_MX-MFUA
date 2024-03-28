@@ -70,6 +70,15 @@ body {
     margin-bottom: 28px;
 }
 
+.info__heading {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #2F3132;
+}
+
 .header {
     display: flex;
     justify-content: center;
