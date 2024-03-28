@@ -18,3 +18,4 @@
 + **0.1.1 - Add images**
 + **0.1.2 - Add section Top**
 + **0.1.3 - Add section Bluetooth**
++ **0.1.4 - Add section Info**
