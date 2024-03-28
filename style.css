@@ -304,4 +304,9 @@ body {
         height: 514px;
         margin-bottom: 124px;
     }
+    .heading {
+        font-size: 40px;
+        line-height: 47px;
+        margin-bottom: 30px;
+    }
 }
