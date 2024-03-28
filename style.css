@@ -141,4 +141,6 @@ body {
     padding-bottom: 218px;
     background-image: url(img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1.png);
     background-color: #EDEDED;
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
