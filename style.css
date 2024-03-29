@@ -469,4 +469,31 @@ body {
 	.top__arrow {
 		margin-top: 49px;
 	}
+	.bluetooth__img {
+		height: 427px;
+		background: url(img/High_Resolution_PNG-MX\ Master\ 3\ FRONT\ GRAPHITE\ 1.png) 
+		no-repeat 0 119px,
+		url(img/High_Resolution_PNG-MX\ Master\ 3\ LEFT\ GRAPHITE\ 1-1.png) 
+		no-repeat right 119px;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.center_bluetooth {
+		padding-left: calc(50% - 622px);
+		padding-right: calc(50% - 622px);
+	}
+	.bluetooth__heading {
+		font-size: 96px;
+		line-height: 112px;
+		display: flex;
+		justify-content: center;
+	}
+	.bluetooth__heading_day {
+		padding-top: 45px;
+	}
+	.bluetooth__heading_count {
+		font-size: 300px;
+		line-height: 352px;
+		padding-left: 74px;
+	}
 }
