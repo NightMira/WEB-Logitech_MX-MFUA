@@ -551,4 +551,49 @@ body {
 		justify-content: center;
 		margin-top: 71px;
 	}
+	.mouse {
+		display: flex;
+		flex-wrap: wrap;
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.mouse_center {
+		padding-left: calc(50% - 655px);
+		padding-right: calc(50% - 655px);
+	}
+	.mouse__item {
+		height: 557px;
+		width: 50%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.mouse__text_1 {
+		padding-right: 217px;
+		padding-left: 31px;
+		order: 2;
+	}
+	.mouse__text_1 .heading {
+		text-align: left;
+	}
+	.mouse__text_1 .text {
+		text-align: left;
+	}
+	.mouse__text_2 {
+		padding-left: 217px;
+		padding-right: 31px;
+		order: 3;
+	}
+	.mouse__text_2 .heading {
+		text-align: right;
+	}
+	.mouse__text_2 .text {
+		text-align: right;
+	}
+	.mouse__img_1 {
+		order: 1;
+	}
+	.mouse__img_2 {
+		order: 4;
+	}
 }
