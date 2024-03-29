@@ -11,7 +11,9 @@
 ## ***Check List***
 - [X] Mobile
 - [X] Tablet
-- [ ] Desctop
+- [X] Desctop
+- [ ] Sliders
+- [ ] Menu
 
 ## Change Log
 + **0.1 - Git Init**
@@ -23,3 +25,4 @@
 + **0.1.6 - Add section Mouse**
 + **0.1.7 - Add section Footer**
 + **0.2 - Add style to Tablet**
++ **0.3 - Add Desktop**
