@@ -345,4 +345,20 @@ body {
 		line-height: 23px;
 		margin: 0;
 	}
+	.text_mouse {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.mouse__text {
+		padding-left: 67px;
+		padding-right: 64px;
+		padding-bottom: 50px;
+	}
+	.mouse__img {
+		height: 549px;
+	}
+	.mouse__img_1 {
+		background-image: url(img/High_Resolution_JPG-MX\ Master\ Lifestyle\ 2602\ SpaceGrey\ for\ MAC\ 2.jpg);
+	
+	}
 }
