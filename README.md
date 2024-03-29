@@ -10,7 +10,7 @@
 
 ## ***Check List***
 - [X] Mobile
-- [ ] Tablet
+- [X] Tablet
 - [ ] Desctop
 
 ## Change Log
@@ -22,3 +22,4 @@
 + **0.1.5 - Add section Settings**
 + **0.1.6 - Add section Mouse**
 + **0.1.7 - Add section Footer**
++ **0.2 - Add style to Tablet**
