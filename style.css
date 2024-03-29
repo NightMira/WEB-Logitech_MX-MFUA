@@ -482,6 +482,9 @@ body {
 		padding-left: calc(50% - 622px);
 		padding-right: calc(50% - 622px);
 	}
+	.bluetooth {
+		padding-bottom: 80px;
+	}
 	.bluetooth__heading {
 		font-size: 96px;
 		line-height: 112px;
