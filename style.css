@@ -315,4 +315,34 @@ body {
 	.text_flow:last-child {
 		padding-right: 0;
 	}
+	.settings {
+		padding-bottom: 70px;
+	}
+	.settings__content {
+		margin-left: 64px;
+		margin-right: 65px;
+	}
+	.settings__slider {
+		margin: 54px 198px 150px;
+	}
+	.setting__icons {
+		margin-right: 104px;
+		margin-left: 98px;
+	}
+	.setting__img {
+		height: 35px;
+	}
+	.heading_settings {
+		margin-left: 215px;
+		margin-right: 215px;
+	}
+	.text_settings-p {
+		margin-left: 64px;
+		margin-right: 65px;
+	}
+	.text_settings {
+		font-size: 20px;
+		line-height: 23px;
+		margin: 0;
+	}
 }
