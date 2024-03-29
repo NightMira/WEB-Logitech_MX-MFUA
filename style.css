@@ -7,6 +7,10 @@ body {
 	justify-content: center;
 }
 
+.header__logo_white {
+	display: none;
+}
+
 .heading {
 	font-style: normal;
 	font-weight: 900;
@@ -373,5 +377,11 @@ body {
 	.center {
 		padding-left: calc(50% - 580px);
 		padding-right: calc(50% - 580px);
+	}
+	.header__logo_dark {
+		display: none;
+	}
+	.header__logo_white {
+		display: block;
 	}
 }
