@@ -2,11 +2,6 @@ body {
 	font-family: Roboto;
 }
 
-.header {
-	/* display: flex;
-	justify-content: center; */
-}
-
 .header__logo_white {
 	display: none;
 }
@@ -522,5 +517,15 @@ body {
 	.text_info {
 		width: 765px;
 		margin: auto;
+	}
+	.flow {
+		padding-bottom: 870px;
+	}
+	.flow_center {
+		padding-left: calc(50% - 479px);
+		padding-right: calc(50% - 479px);
+	}
+	.flow__ol {
+		margin-left: 15px;
 	}
 }
