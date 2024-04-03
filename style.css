@@ -57,7 +57,7 @@ body {
 .top__img {
 	margin-top: 94px;
 	height: 256px;
-	background-image: url(img/MX-Master\ 1.png);
+	background-image: url(img/mobile/MX-Master\ 1.png);
 	background-size: contain;
 	margin-bottom: 41px;
 	background-repeat: no-repeat;
@@ -96,7 +96,7 @@ body {
 
 .bluetooth__img {
 	height: 284px;
-	background-image: url(img/High_Resolution_PNG-MX\ Master\ 3\ LEFT\ GRAPHITE\ 1.png);
+	background-image: url(img/mobile/MX\ Master\ 3\ LEFT\ GRAPHITE\ 1.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: center bottom;
@@ -145,10 +145,20 @@ body {
 	margin-right: 61px;
 }
 
+.info__mobile_slider {
+	display: block;
+	width: 100%;
+}
+
+.info__table_slider, .info__desktop_slider {
+	display: none;
+	width: 100%;
+}
+
 .flow {
 	padding-top: 70px;
 	padding-bottom: 218px;
-	background-image: url(img/High_Resolution_JPG-MX\ Lifestyle\ 2346\ 1.png);
+	background-image: url(img/mobile/MX\ Lifestyle.png);
 	background-color: #EDEDED;
 	background-repeat: no-repeat;
 	background-position: bottom;
@@ -177,6 +187,16 @@ body {
 
 .settings__slider {
 	margin: 35px 22px 98px 23px;
+}
+
+.settings__mobile_slider {
+	display: block;
+	width: 100%;
+}
+
+.settings__table_slider {
+	display: none;
+	width: 100%;
 }
 
 .settings__content {
@@ -209,11 +229,11 @@ body {
 }
 
 .mouse__img_1 {
-	background-image: url(img/image\ 1.jpg);
+	background-image: url(img/mobile/image\ 1.jpg);
 }
 
 .mouse__img_2 {
-	background-image: url(img/image\ 2.jpg);
+	background-image: url(img/mobile/image\ 2.jpg);
 }
 
 .center-content {
@@ -251,6 +271,7 @@ body {
 		margin-top: 159px;
 		height: 514px;
 		margin-bottom: 124px;
+		background-image: url(img/tablet/MX-Master\ 1.png);
 	}
 	.heading {
 		font-size: 40px;
@@ -285,6 +306,7 @@ body {
 		line-height: 176px;
 	}
 	.bluetooth__img {
+		background-image: url(img/tablet/MX\ Master\ 3\ LEFT\ GRAPHITE\ 1.png);
 		height: 597px;
 		margin-left: 39px;
 		margin-right: 19px;
@@ -304,10 +326,18 @@ body {
 		font-size: 24px;
 		line-height: 28px;
 	}
+	.info__table_slider {
+		display: block;
+	}
+	
+	.info__mobile_slider, .info__desktop_slider {
+		display: none;
+	}
 	.flow {
 		padding-bottom: 498px;
 		padding-left: 64px;
 		padding-right: 65px;
+		background-image: url(img/tablet/MX\ Lifestyle.png);
 	}
 	.text_flow-p {
 		margin-left: 0;
@@ -342,6 +372,13 @@ body {
 	.settings__slider {
 		margin: 54px 198px 150px;
 	}
+	.settings__mobile_slider {
+		display: none;
+	}
+	
+	.settings__table_slider {
+		display: block;
+	}
 	.setting__icons {
 		margin-right: 104px;
 		margin-left: 98px;
@@ -375,8 +412,10 @@ body {
 		height: 549px;
 	}
 	.mouse__img_1 {
-		background-image: url(img/High_Resolution_JPG-MX\ Master\ Lifestyle\ 2602\ SpaceGrey\ for\ MAC\ 2.jpg);
-	
+		background-image: url(img/tablet/image\ 1.jpg);
+	}
+	.mouse__img_2 {
+		background-image: url(img/tablet/image\ 2.jpg);
 	}
 	.footer {
 		font-size: 14px;
@@ -460,6 +499,7 @@ body {
 		justify-content: flex-end;
 	}
 	.top__img {
+		background-image: url(img/desktop/MX-Master\ 1.png);
 		margin-top: 20px;
 		height: 671px;
 		padding-top: 80px;
@@ -470,9 +510,9 @@ body {
 	}
 	.bluetooth__img {
 		height: 427px;
-		background: url(img/High_Resolution_PNG-MX\ Master\ 3\ FRONT\ GRAPHITE\ 1.png) 
+		background: url(img/desktop/MX\ Master\ 3\ FRONT\ GRAPHITE\ 1.png) 
 		no-repeat 0 119px,
-		url(img/High_Resolution_PNG-MX\ Master\ 3\ LEFT\ GRAPHITE\ 1-1.png) 
+		url(img/desktop/MX\ Master\ 3\ LEFT\ GRAPHITE\ 1.png) 
 		no-repeat right 119px;
 		margin-left: 0;
 		margin-right: 0;
@@ -522,8 +562,16 @@ body {
 		width: 765px;
 		margin: auto;
 	}
+	.info__desktop_slider {
+		display: block;
+	}
+	
+	.info__mobile_slider, .info__table_slider {
+		display: none;
+	}
 	.flow {
 		padding-bottom: 870px;
+		background-image: url(img/desktop/MX\ Lifestyle.png);
 	}
 	.flow_center {
 		padding-left: calc(50% - 479px);
@@ -591,9 +639,11 @@ body {
 		text-align: right;
 	}
 	.mouse__img_1 {
+		background-image: url(img/desktop/MX\ Master\ Lifestyle\ 2602\ SpaceGrey\ for\ MAC\ 2.png);
 		order: 1;
 	}
 	.mouse__img_2 {
+		background-image: url(img/desktop/image\ 2.png);
 		order: 4;
 	}
 }
