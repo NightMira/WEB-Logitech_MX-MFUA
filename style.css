@@ -181,6 +181,13 @@ body {
 	background-color: #EDEDED;
 }
 
+#settings_slider_indicator {
+	top: 304px;
+}
+#settings_slider_indicator [data-bs-target] {
+	height: 40px;
+}
+
 .settings__slider-img {
 	display: none;
 }
